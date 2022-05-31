@@ -43,7 +43,7 @@ IMG_SIZE = 128
 MODELS = {}
 
 
-key = '5137358430:AAHNZPAT137UneoPm1eC1qN2CDzNMDzA5FQ'
+key = '*******'
 bot = telebot.TeleBot(key)
 
 
