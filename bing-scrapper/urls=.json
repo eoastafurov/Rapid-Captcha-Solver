@@ -1,0 +1,280 @@
+{
+    "dictionary": {
+        "train": [
+            {
+                "query": "train",
+                "processed": true
+            },
+            {
+                "query": "train world",
+                "processed": true
+            },
+            {
+                "query": "Cool Trains",
+                "processed": true
+            },
+            {
+                "query": "Cool Train Art",
+                "processed": true
+            },
+            {
+                "query": "Railroad Art",
+                "processed": true
+            },
+            {
+                "query": "American Railroad Art",
+                "processed": true
+            },
+            {
+                "query": "Vintage Railroad Art",
+                "processed": true
+            },
+            {
+                "query": "Railroad Posters",
+                "processed": true
+            },
+            {
+                "query": "russian train",
+                "processed": true
+            },
+            {
+                "query": "belgium train",
+                "processed": true
+            },
+            {
+                "query": "madrid train",
+                "processed": true
+            },
+            {
+                "query": "switzerland train",
+                "processed": true
+            },
+            {
+                "query": "uk train",
+                "processed": true
+            },
+            {
+                "query": "china train",
+                "processed": true
+            },
+            {
+                "query": "japan train",
+                "processed": true
+            },
+            {
+                "query": "alaska train",
+                "processed": true
+            },
+            {
+                "query": "suburban train",
+                "processed": true
+            },
+            {
+                "query": "Chennai Local Train",
+                "processed": true
+            },
+            {
+                "query": "Kolkata Local Train",
+                "processed": true
+            },
+            {
+                "query": "Local Train India",
+                "processed": true
+            },
+            {
+                "query": "Fast Electric Trains",
+                "processed": true
+            },
+            {
+                "query": "Amtrak Electric Train",
+                "processed": true
+            },
+            {
+                "query": "Amtrak New Acela",
+                "processed": true
+            },
+            {
+                "query": "Alstom Acela",
+                "processed": true
+            },
+            {
+                "query": "old suburban train",
+                "processed": true
+            },
+            {
+                "query": "British Rail Diesel Locomotives",
+                "processed": true
+            },
+            {
+                "query": "Class 33 Locomotives",
+                "processed": true
+            },
+            {
+                "query": "BR Diesel Locomotives",
+                "processed": true
+            },
+            {
+                "query": "Diesel Locomotives Types",
+                "processed": true
+            },
+            {
+                "query": "Diesel Locomotive Trains",
+                "processed": true
+            },
+            {
+                "query": "Big Diesel Trains",
+                "processed": true
+            },
+            {
+                "query": "Diesel Steam Train",
+                "processed": true
+            },
+            {
+                "query": "Irish Diesel Locomotives",
+                "processed": true
+            },
+            {
+                "query": "Locomotives",
+                "processed": true
+            },
+            {
+                "query": "New Steam Locomotive",
+                "processed": true
+            },
+            {
+                "query": "Modern Steam Engine",
+                "processed": true
+            },
+            {
+                "query": "urban locomotive",
+                "processed": true
+            },
+            {
+                "query": "suburban locomotive",
+                "processed": true
+            },
+            {
+                "query": "CSX Train",
+                "processed": true
+            },
+            {
+                "query": "Conrail Train",
+                "processed": true
+            },
+            {
+                "query": "GP30",
+                "processed": true
+            },
+            {
+                "query": "B&O GP30",
+                "processed": true
+            },
+            {
+                "query": "Union Pacific GP30",
+                "processed": true
+            }
+        ],
+        "airplane": [
+            {
+                "query": "airplane",
+                "processed": true
+            },
+            {
+                "query": "Airplane Night",
+                "processed": true
+            },
+            {
+                "query": "Aircraft at Night",
+                "processed": true
+            },
+            {
+                "query": "big Aircraft",
+                "processed": true
+            },
+            {
+                "query": "big aircraft landing",
+                "processed": true
+            },
+            {
+                "query": "air baltic",
+                "processed": true
+            },
+            {
+                "query": "Q400 Aircraft",
+                "processed": true
+            },
+            {
+                "query": "WestJet Q400",
+                "processed": true
+            },
+            {
+                "query": "WestJet Bombardier Q400",
+                "processed": true
+            },
+            {
+                "query": "WestJet Dash 8-400",
+                "processed": true
+            },
+            {
+                "query": "Dash 8-400 Turboprop",
+                "processed": true
+            },
+            {
+                "query": "De Havilland Dhc-8 Dash 8-400",
+                "processed": true
+            },
+            {
+                "query": "Dash 8 Plane",
+                "processed": true
+            },
+            {
+                "query": "Air Canada",
+                "processed": true
+            },
+            {
+                "query": "Air Canada 767",
+                "processed": true
+            },
+            {
+                "query": "Boeing 767 Max",
+                "processed": true
+            },
+            {
+                "query": "United Boeing 767",
+                "processed": true
+            },
+            {
+                "query": "767-400ER",
+                "processed": true
+            },
+            {
+                "query": "aeroflot aircraft",
+                "processed": true
+            },
+            {
+                "query": "Aeroflot 593",
+                "processed": true
+            },
+            {
+                "query": "Aeroflot A310",
+                "processed": true
+            },
+            {
+                "query": "arabic airlines aircraft",
+                "processed": true
+            },
+            {
+                "query": "Saudi Airlines Plane",
+                "processed": true
+            },
+            {
+                "query": "Saudi Aircraft",
+                "processed": true
+            },
+            {
+                "query": "Saudi Airlines 747",
+                "processed": true
+            }
+        ]
+    }
+}
